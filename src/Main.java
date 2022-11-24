@@ -18,7 +18,7 @@ Pista: Los números inferiores a 0 son negativos y los superiores, positivos.
         } else if (numeroIf < 0) {
             System.out.println(numeroIf);
             System.out.println("es negativo, ya que es menor a cero ");
-        } else if (numeroIf == 0) {
+        } else {
             System.out.println(numeroIf);
             System.out.println("es igual a cero");
         }
